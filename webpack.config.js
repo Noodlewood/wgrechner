@@ -59,7 +59,6 @@ module.exports = {
 
     plugins:     [
         new CheckerPlugin(),
-        new StyleLintPlugin(),
         new webpack.HotModuleReplacementPlugin(), // enable HMR globally
         new webpack.NamedModulesPlugin(), // prints more readable module names in the browser console on HMR updates
 

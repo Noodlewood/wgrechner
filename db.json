@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Verena",
+      "currentRoom": "1"
+    },
+    {
+      "id": "2",
+      "name": "Daniel",
+      "currentRoom": "2"
+    },
+    {
+      "id": "3",
+      "name": "Lena",
+      "currentRoom": "3"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "1",
+      "name": "Küche"
+    },
+    {
+      "id": "2",
+      "name": "Bad"
+    },
+    {
+      "id": "3",
+      "name": "Flur"
+    }
+  ]
+}
